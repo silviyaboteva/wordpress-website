@@ -1,0 +1,324 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Corporate Portfolio\n"
+"POT-Creation-Date: 2016-09-23 12:24+0545\n"
+"PO-Revision-Date: 2016-09-23 12:24+0545\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:22
+msgid "Page Not Found"
+msgstr ""
+
+#: 404.php:26
+msgid ""
+"Well, this is embarrassing. We can't seem to locate the page you're looking "
+"for."
+msgstr ""
+
+#: 404.php:27
+msgid "Bad link? Mistyped address? We're not exactly sure."
+msgstr ""
+
+#: 404.php:28
+msgid "You can always search for the page below."
+msgstr ""
+
+#: archive.php:65 index.php:36 index.php:62 index.php:88 index.php:113
+#: search.php:42
+msgid "Older Posts"
+msgstr ""
+
+#: archive.php:66 index.php:37 index.php:63 index.php:89 index.php:114
+#: search.php:43
+msgid "Newer Posts"
+msgstr ""
+
+#: comments.php:27 content.php:26 template-homepage.php:113
+msgid "0 Comments"
+msgstr ""
+
+#: comments.php:27 content.php:26 template-homepage.php:113
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:27 content.php:26 template-homepage.php:113
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:31 comments.php:46
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:57
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: comments.php:58
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out</a>"
+msgstr ""
+
+#: comments.php:61
+msgid "Leave a reply"
+msgstr ""
+
+#: comments.php:62
+#, php-format
+msgid "Leave a reply to %s"
+msgstr ""
+
+#: comments.php:63
+msgid "Cancel reply"
+msgstr ""
+
+#: comments.php:64
+msgid "Submit Comment"
+msgstr ""
+
+#: content.php:23
+msgid " by "
+msgstr ""
+
+#: content.php:25 template-homepage.php:112
+msgid " with "
+msgstr ""
+
+#: content.php:41
+msgid "Posted in"
+msgstr ""
+
+#: content.php:44
+msgid "Tagged with"
+msgstr ""
+
+#: footer.php:54
+msgid "Corporate Portfolio WordPress Theme by"
+msgstr ""
+
+#: footer.php:55
+msgid "StyledThemes"
+msgstr ""
+
+#: functions.php:67
+msgid "Header Menu"
+msgstr ""
+
+#: functions.php:68
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:110
+msgid "Blog Right Sidebar"
+msgstr ""
+
+#: functions.php:112
+msgid ""
+"Widgets placed here will display in the sidebar on both blog and post pages."
+msgstr ""
+
+#: functions.php:122
+msgid "Blog Left Sidebar"
+msgstr ""
+
+#: functions.php:124
+msgid ""
+"Widgets placed here will display in the Left sidebar on on both blog and "
+"post pages."
+msgstr ""
+
+#: functions.php:132
+msgid "Page Right Sidebar"
+msgstr ""
+
+#: functions.php:134
+msgid "Widgets placed here will display in the sidebar on pages."
+msgstr ""
+
+#: functions.php:143
+msgid "Page Left Sidebar"
+msgstr ""
+
+#: functions.php:145
+msgid "Widgets placed here will display in the Left sidebar on pages."
+msgstr ""
+
+#: functions.php:222
+msgid "Edit"
+msgstr ""
+
+#: functions.php:229
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:244
+msgid "Continue Reading"
+msgstr ""
+
+#: header-meta.php:23
+msgid "Search results for"
+msgstr ""
+
+#: includes/category-dropdown.php:22
+msgid "&mdash; Choose Category &mdash;"
+msgstr ""
+
+#: includes/customizer.php:38
+msgid "Basic Settings"
+msgstr ""
+
+#: includes/customizer.php:49
+msgid "Blog Layout"
+msgstr ""
+
+#: includes/customizer.php:54 includes/customizer.php:370
+msgid "Blog with Right Sidebar"
+msgstr ""
+
+#: includes/customizer.php:55 includes/customizer.php:371
+msgid "Blog with Left Sidebar"
+msgstr ""
+
+#: includes/customizer.php:56 includes/customizer.php:372
+msgid "Blog Full Width &amp; no Sidebars"
+msgstr ""
+
+#: includes/customizer.php:72
+msgid "Link And Accent Color"
+msgstr ""
+
+#: includes/customizer.php:74
+msgid "This changes both the link and accent color used in the theme."
+msgstr ""
+
+#: includes/customizer.php:87
+msgid "Home Page"
+msgstr ""
+
+#: includes/customizer.php:88
+msgid "Change the home page settings"
+msgstr ""
+
+#: includes/customizer.php:94
+msgid "Billboard Section"
+msgstr ""
+
+#: includes/customizer.php:104
+msgid "Button Link"
+msgstr ""
+
+#: includes/customizer.php:117
+msgid "Button Text"
+msgstr ""
+
+#: includes/customizer.php:125
+msgid "Homepage Slider"
+msgstr ""
+
+#: includes/customizer.php:138
+msgid "Show Slider Section"
+msgstr ""
+
+#: includes/customizer.php:150 includes/customizer.php:198
+#: includes/customizer.php:245
+msgid "Total number of post to display"
+msgstr ""
+
+#: includes/customizer.php:151 includes/customizer.php:199
+#: includes/customizer.php:246
+msgid "This display total number of latest post published"
+msgstr ""
+
+#: includes/customizer.php:162
+msgid "Choose Post From Category"
+msgstr ""
+
+#: includes/customizer.php:164
+msgid "Select Category to show Slider in Slider Section"
+msgstr ""
+
+#: includes/customizer.php:173
+msgid "Featured Post"
+msgstr ""
+
+#: includes/customizer.php:186
+msgid "Show Featured Post"
+msgstr ""
+
+#: includes/customizer.php:210
+msgid "Choose Featured Post From Category"
+msgstr ""
+
+#: includes/customizer.php:212
+msgid "Select Category to show posts in Featured Section"
+msgstr ""
+
+#: includes/customizer.php:220
+msgid "Blog Post Section"
+msgstr ""
+
+#: includes/customizer.php:233
+msgid "Hide Blog Post Section"
+msgstr ""
+
+#: includes/customizer.php:261
+msgid "Footer Setting"
+msgstr ""
+
+#: includes/customizer.php:273
+msgid "Hide copyright section"
+msgstr ""
+
+#: includes/customizer.php:285
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: includes/customizer.php:286
+msgid ""
+"This field changes the footer text above the copyright line in the site "
+"footer."
+msgstr ""
+
+#: search.php:51
+msgid "Your search did not match any entries"
+msgstr ""
+
+#: searchform.php:12
+msgid "To search, type and hit enter."
+msgstr ""
+
+#: single.php:32
+msgid "Author"
+msgstr ""
+
+#: single.php:53
+msgid "Sorry, nothing to display"
+msgstr ""
+
+#: template-homepage.php:19
+msgid "Browser Bar"
+msgstr ""
+
+#: template-homepage.php:28
+msgid "View project"
+msgstr ""
+
+#: template-homepage.php:71
+msgid "Learn More"
+msgstr ""

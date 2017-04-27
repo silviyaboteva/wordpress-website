@@ -1,0 +1,100 @@
+Keep a change log to describe all the changes made to program source files. The purpose of this is so that people investigating bugs in the future will know about the changes that might have introduced the bug. Often a new bug can be found by looking at what was recently changed. More importantly, change logs can help you eliminate conceptual inconsistencies between different parts of a program, by giving you a history of how the conflicting concepts arose and who they came from.
+
+Changelog Legend:
+----
+
+[+] = Added
+[*] = Changed
+[^] = Moved
+[=] = No Changes
+[x] = Deleted
+[!] = Bugs
+
+----
+
+(January 26, 2017 ) Version 1.1.0 Corporate Portfolio <www.styledthemes.com>
+
+[!] Footer translation bug Fixed
+
+---
+
+---
+
+(November 10, 2016) Version 1.0.10 Corporate Portfolio <www.styledthemes.com>
+
+[x] listing of page when footer menu not assigned deleted
+
+---
+
+(November 10, 2016) Version 1.0.10 Corporate Portfolio <www.styledthemes.com>
+
+[*] next_posts_link() and previous_posts_link() are replaced by the_post_navigation()
+[*] value attribute added on searchform
+[*] Prefixing removed from third party script
+[*] Remove http support for google font
+[*] escaping removed from the_author_meta()
+
+----
+
+(October 21, 2016) Version 1.0.9 Corporate Portfolio <www.styledthemes.com>
+
+[!] Flexslider handler and slicknav script handler bug Fixed 
+
+----
+
+(October 05, 2016) Version 1.0.8 Corporate Portfolio <www.styledthemes.com>
+
+[*] All the third pary resourcees are prefixed with theme slug
+[+] Escaping of value that was send wp_query() function Added 
+
+----
+
+(October 04, 2016) Version 1.0.7 Corporate Portfolio <www.styledthemes.com>
+
+[*]  Chagned handler for slick nav, flexslider and used wp_enqueue_style() to include slicknav.css
+
+----
+
+(September 30, 2016) Version 1.0.6 Corporate Portfolio <www.styledthemes.com>
+
+[+] Google font sans pro license Added
+
+----
+
+(September 23, 2016) Version 1.0.5 Corporate Portfolio <www.styledthemes.com>
+
+	[x] enqueue of jquery removed and provide dependecy on other third party js
+	[x] .po and .mo file delted and new .pot file generated  
+
+----
+
+(September 22, 2016) Version 1.0.4 Corporate Portfolio <www.styledthemes.com>
+
+	[!] archive title and description bug Fixed
+
+----
+
+(September 21, 2016) Version 1.0.3 Corporate Portfolio <www.styledthemes.com>
+
+	[!] escaping issue on style.css Fixed
+
+----
+
+(September 20, 2016) Version 1.0.2 Corporate Portfolio <www.styledthemes.com>
+
+	[!] Prefixing , escpaing issue fixed
+	[+] jquery.slicknav.js Added
+	[+] fontawesome.css Added
+
+----
+
+
+(September 19, 2016) Version 1.0.1 Corporate Portfolio <www.styledthemes.com>
+
+	[!] Prefixing , escpaing issue fixed
+
+----
+
+(April 15, 2016) Version 1.0.0 Corporate Portfolio <www.styledthemes.com>
+
+	Initial release
